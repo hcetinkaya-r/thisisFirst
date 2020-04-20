@@ -1,1 +1,1 @@
-# Python ve Java Örnekleri
+# Python ve Java Ödevleri
