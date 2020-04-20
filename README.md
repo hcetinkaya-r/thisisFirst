@@ -1,1 +1,1 @@
-# Python an Java Örnekleri
+# Python ve Java Örnekleri
